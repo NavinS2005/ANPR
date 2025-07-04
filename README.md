@@ -28,11 +28,9 @@ Python 🐍
 
 OpenCV 👁️, TensorFlow / PyTorch 🔥, EasyOCR / Tesseract OCR 📖, NumPy 🧮
 
-Deep Learning Models: YOLO 🚀 / SSD for object detection
+Deep Learning Models: YOLO 🚀 object detection
 
-Deployment: Flask / Django Web App 🌐 or Edge Devices 📱
-
-Database: SQLite / PostgreSQL 🗄️
+Database: SQLite🗄️
 
 🚀 Possible Enhancements:
 ☁️ Cloud-based centralized monitoring
